@@ -19,8 +19,7 @@
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ee34f51d-eb2c-4fd0-8047-260ae0417996/ddwqjut-79060fc2-c6be-4e80-ab44-3c405523e4fd.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VlMzRmNTFkLWViMmMtNGZkMC04MDQ3LTI2MGFlMDQxNzk5NlwvZGR3cWp1dC03OTA2MGZjMi1jNmJlLTRlODAtYWI0NC0zYzQwNTUyM2U0ZmQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0vFkqN3rMaQ7mnEkhkZWkLG4XhR4Atr647NuIPzkhHk" >
 </div>
 
-<h1 align="center">Hi 👋! My name is Om Jaigude and I'am a  Developer & Data Science Student<img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;I'm <img src="./assets/myname.svg"  alt="Abhishek Singh"/></h1>
-
+<h1 align="center"   width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;>Hi 👋! I'm <img src="./assets/myname.svg"  alt="Om Jaigude"/><img</h1>
 
 
 
@@ -29,7 +28,7 @@
 
 </h3>
 
-<h3 align="center"><strong> A Passionate Developer from India  <img src="https://i.pinimg.com/originals/b2/26/2b/b2262b428bddc7eb5424209ffd876a65.gif" width="30"></strong> </h3>
+<h3 align="center"><strong> A Passionateand Developer & Data Science Student  <img src="https://i.pinimg.com/originals/b2/26/2b/b2262b428bddc7eb5424209ffd876a65.gif" width="30"></strong> </h3>
 
 <br><br>
 
@@ -37,17 +36,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek249494&label=Profile%20views&color=0e75b6&style=flat" alt="om1234" /> </p>
 
-- 🔭 I’m currently working on **earthsome.co**
+- 🔭 I’m currently working on **Fitness Runner**
 
-- 🌱 I’m currently learning **Three.js,DSA**
+- 🌱 I’m currently learning **Data Analytics**
 
-- 💬 Ask me about **javaScript,Next.js,Python,C++**
+- 💬 Ask me about **Python,C++,web technology**
 
-- 📫 reach me @  **abhi120730@gmail.com**
-- 🌐 Portfolio: **https://www.abhishekworks.com/**
+- 📫 reach me @  **omjaigude33@gmail.com**
+- 🌐 Portfolio: **https://om-protfolio.netlify.app/**
 - 👯 I’m looking to collaborate on **on open-source projects related to Web Development**
 
-- 👀 I’m interested in **Web Development, Blockchain, and DSA**
   
 
   <div align="center">
@@ -76,65 +74,6 @@
 </a>
 
 </div>
-
-<br><br>
-
-<div align="center">
-<h2 align='center'><strong>Languages, Tools and Technologies 🚀 </strong></h2>
-	<br>
-<table>
-	<tr>
-		<td><strong>Programming Languages</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=cpp,c,java,py,js,latex&theme=dark"></td>
-	</tr>
-	<tr>
-		<td><strong>Frontend Development</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react&theme=dark"></td>
-	</tr>
-	<tr>
-		<td><strong>Backend Development</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=py,django&theme=dark"></td>
-	</tr>
-	<tr>
-	<tr>
-		<td><strong>Database Technologies</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"></td>
-	</tr>
-	<tr>
-		<td><strong>Frameworks</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=react,vite,django&theme=dark"></td>
-	</tr>
-	<tr>
-		<td><strong>Cloud Deployment</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=aws&theme=dark"></td>
-	</tr>
-	<tr>
-		<td><strong>Hosting Services</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=github,vercel,netlify&theme=dark"></td>
-	</tr>
-	<tr>
-		<td><strong>Developer Tools</strong></td>
-		<td><img height=40 src="https://skillicons.dev/icons?i=git,github,vscode,idea,sublime&theme=dark"> <img style="object-fit:fill" height=40 src="https://i.ibb.co/YXhzhGC/Untitled-design-removebg-preview.png">
-	</td>
-	</tr>
-	<tr>
-		<td><strong>Debugging Tools</strong></td>
-		<td> <img height=40 src="https://skillicons.dev/icons?i=stackoverflow&theme=dark"> &nbsp;<img height=40 src=https://i.ibb.co/qsFmdQc/Untitled-design-2-removebg-preview.png"> &nbsp;<img height=40 src="https://i.ibb.co/pwsQMbV/icon-removebg-preview.png"> &nbsp;<img height=40 src="https://i.ibb.co/t2YS8SV/Screenshot-2024-12-09-at-10-27-30-PM-removebg-preview-3.png"> &nbsp;<img height=40 src="https://i.ibb.co/NYSZFBr/Untitled-design-6-removebg-preview.png">&nbsp;<img height=40 src="https://i.ibb.co/ZL0HDJP/Untitled-design-5-removebg-preview.png"></td>
-	</tr>
-	<tr>
-		<td><strong>Collaboration Platforms</strong></td>
-		<td> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"></td>
-	</tr>
-	<tr>
-		<td><strong>Operating System</strong></td>
-		<td>
-		 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="bootstrap" width="" height=""/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="bootstrap" width="" height=""/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-		</td>
-	</tr>
-</table>
-</div>
-
 <br><br>
 
 </table>
