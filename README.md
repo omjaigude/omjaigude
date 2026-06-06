@@ -6,7 +6,7 @@
 <div align="center">
 
 </h3>
-<h1 align="center" font="algebrian"><strong>Hey! I'm Om Jaigude </strong></h1>
+<h1 align="center" font="Algebrian"><strong>Hey! I'm Om Jaigude </strong></h1>
 <h3 align="center"><strong> A Passionateand Developer & Data Science Student  <img src="https://i.pinimg.com/originals/b2/26/2b/b2262b428bddc7eb5424209ffd876a65.gif" width="30"></strong> </h3>
 
 <br><br>
