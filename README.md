@@ -7,9 +7,8 @@
 
 </h3>
 <h1 align="center" font="Algebrian"><strong>Hey! I'm Om Jaigude </strong></h1>
-<h3 align="center"><strong> A Passionateand Developer & Data Science Student  <img src="https://i.pinimg.com/originals/b2/26/2b/b2262b428bddc7eb5424209ffd876a65.gif" width="30"></strong> </h3>
-
-<br><br>
+<h3 align="center"><strong> A passionated Developer & Data Science Student  <img src="https://i.pinimg.com/originals/b2/26/2b/b2262b428bddc7eb5424209ffd876a65.gif" width="30"></strong> </h3>
+<br>
 # 💫 About Me:
 ৹ I’m currently working on Fitness Runner<br>৹ I’m currently learning Data Analytics<br>৹ Ask me about Python,C++,web technology<br>৹ reach me @ omjaigude33@gmail.com<br>৹ Portfolio: https://om-protfolio.netlify.app/<br>৹ I’m looking to collaborate on on open-source projects related to Web Development
 
@@ -27,18 +26,7 @@
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<br>
-<!-- <picture> -->
-  		<!-- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/The-Abhishek-Singh/The-Abhishek-Singh/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/The-Abhishek-Singh/The-Abhishek-Singh/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/The-Abhishek-Singh/The-Abhishek-Singh/output/github-contribution-grid-snake-dark.svg" /> -->
-	<!-- <p align="center">
-  <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
-</p> -->
 
 <!-- </picture> -->	
   </table>
